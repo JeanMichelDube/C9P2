@@ -16,6 +16,8 @@ github:
 
 ## Plot Slide
 
+Plot from October 16 2016
+
 ```{r, message=FALSE, echo=FALSE, error=FALSE, warning=FALSE}
 library(plotly)
 p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +

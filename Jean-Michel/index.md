@@ -16,6 +16,8 @@ github:
 
 ## Plot Slide
 
+Plot from October 16 2016
+
 
 <iframe src="demo.html" style="position:absolute;height:80%;width:80%"></iframe>
 
