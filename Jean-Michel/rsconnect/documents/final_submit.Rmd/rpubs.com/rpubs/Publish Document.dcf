@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/219087/44118416a7974cc0b5a929106134a9de
+bundleId: https://api.rpubs.com/api/v1/document/219087/44118416a7974cc0b5a929106134a9de
+url: http://rpubs.com/jeanmicheldube/219087
+when: 1476631825.95503
